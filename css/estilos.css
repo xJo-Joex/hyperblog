@@ -34,3 +34,9 @@ body{
     color: white;
     text-align: left;
 }
+footer{
+    border:1px solid #000;
+    background-color:rosybrown;
+    color: black;
+
+}
